@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
         for (String fact : myFacts) {
 
-            factTextView.append(fact + "\n");
+            factTextView.append(fact + "\n\n");
 
         }
     }
